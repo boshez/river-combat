@@ -1,7 +1,7 @@
-# River Raid Game
+# River Combat Game
 
 ## Overview
-This project is a modern implementation of the classic game River Raid using Unity. The game features player controls, enemy aircraft, and a scoring system.
+This project is a modern implementation of the classic game using Unity. The game features player controls, enemy aircraft, and a scoring system.
 
 ## Getting Started
 
